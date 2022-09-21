@@ -4,7 +4,7 @@
 ## ING. Desarrollo y Gestión de software 
 
 ## Docente
-- 
+- Barrientos Avalos Jose de Jesus Eduardo
 
 ## AutoresAlumnos/as
 - Hernandez Salazar Diego Joan
