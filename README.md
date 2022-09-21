@@ -6,7 +6,7 @@
 ## Docente
 - Barrientos Avalos Jose de Jesus Eduardo
 
-## AutoresAlumnos/as
+## Alumnos/as
 - Hernandez Salazar Diego Joan
 - Muñiz Amaro Isaac Gamaliel
 - Quintero Carrillo Eva
